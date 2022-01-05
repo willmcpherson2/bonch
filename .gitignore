@@ -1,0 +1,8 @@
+*
+*/*
+
+!.gitignore
+!brittany.yaml
+!bonch.cabal
+!src
+!src/**
